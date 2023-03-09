@@ -1,3 +1,4 @@
 # odin-recipes
 
-This is a project to set up for future projects as a template
+This is a project from "The Odin Project"
+Starts as my first project
